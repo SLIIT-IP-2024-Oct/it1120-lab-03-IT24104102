@@ -18,6 +18,6 @@ public class IT24104102Lab3Q2 {
 
         double totalSalary = monthlySalary + otAmount;
 
-        System.out.println("Total Salary = " + totalSalary);
+        System.out.println("The Total salary including OT is: " + totalSalary);
     }
 }
